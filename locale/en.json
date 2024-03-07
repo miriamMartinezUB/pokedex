@@ -1,0 +1,22 @@
+{
+  "app_title": "Pokédex Code Challenge",
+  "home": "Home",
+  "welcome": "Hello Pokémon trainers! I'm Professor Oak, and I have a challenge for you who are eager to have as many Pokémon as possible.\n\nYou can go to the Pokédex screen and there you will see all the Pokémon in your region, if you click on any of them you will be able to capture them and/or release them.\n\nYou also have the screen of your captured Pokémon so that you can keep track of them, of course you can also access their technical data from this screen.\n\nAlthough the unit tests are missing, this project has been made with a lot of love following the provider pattern, we hope you enjoy reading it. \n\nThank you very much!",
+  "pokedex": "Pokedex",
+  "captured": "My captured pokemon",
+  "capture": "Capture",
+  "release": "Release",
+  "404": "We don't found any pokemon with this name",
+  "not_captured": "You don't have any captive pokemon yet, go to pokedex to capture some.",
+  "search_pokemon": "Search any pokemon by name",
+  "id": "Id",
+  "details": "Details",
+  "name": "Name",
+  "height": "Height",
+  "weight": "Weight",
+  "types": "Types",
+  "sort_by_name": "Sort by name",
+  "sort_by_types": "Sort by types",
+  "connection_error_title": "Oops, there seems to be no internet connection!",
+  "connection_error_body": "Our app needs an internet connection to work, check that you have data on or are connected to Wi-Fi."
+}
